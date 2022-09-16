@@ -7,6 +7,7 @@ public class Add
         System.out.println(c);
         int a1 = 8;
         int b1 = 88;
-        int c1 = (a1 - a2);
+        int c1 = (a1 - b1);
+        System.out.println(c1);
     }
 }
