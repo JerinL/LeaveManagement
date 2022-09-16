@@ -5,5 +5,8 @@ public class Add
         int b = 10;
         int c = (a + b);
         System.out.println(c);
+        int a1 = 8;
+        int b1 = 88;
+        int c1 = (a1 - a2);
     }
 }
