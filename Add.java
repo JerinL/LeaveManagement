@@ -10,5 +10,6 @@ public class Add
         int b1 = 88;
         int c1 = (a1 - b1);
         System.out.println(c1);
+        System.out.println(a);
     }
 }
